@@ -13,8 +13,8 @@ Data Cleaning, Data Analysis, Data Visualization
 
 **Process:**  
 - Cleaned raw data using SQL  
-- Performed exploratory and statistical analysis  
-- Built interactive dashboards and visualizations in Power BI
+- Performed data analysis  in Power BI
+- Built interactive dashboard in Power BI
 
 ---
 
@@ -36,13 +36,13 @@ This dashboard helps stakeholders understand:
 ### a. Overall CVR Is Below Target
 
 * Actual CVR: **3.53%** vs Target **4.25%**
+
+### b. Monthly CVRs fluctuate across months
 * Monthly performance is inconsistent, with stronger conversion in early months and a gradual decline toward year-end.
 * Only **6 out of 12 months** exceeded the target.
 * **September** showed the strongest performance with a clear spike.
 
----
-
-### b. Big Gap Between Highest and Lowest Converting Products (~5%)
+### c. Big Gap Between Highest and Lowest Converting Products (~5%)
 
 #### **Top 3 Performing Products**
 
@@ -56,26 +56,23 @@ This dashboard helps stakeholders understand:
 * **Ice Skates:** 5.41%
 * **Dumbbells:** 5.36%
 
----
 
-### c. Medium and High Price Products Convert Better
+### d. Medium and High Price Products Convert Better
 
 * **Medium:** 4.84%
 * **High:** 4.57%
 * **Low:** 3.32%
 
----
 
-### d. Younger Customers Convert at Higher Rates
+### e. Younger Customers Convert at Higher Rates
 
 * **Age 26–35:** Highest CVR at **4.50%**
 * **≤25 years:** 4.25%
 * CVR decreases steadily with older groups
 * **66+ years:** Lowest CVR at **2.25%**
 
----
 
-### e. Performance Varies Across Markets
+### f. Performance Varies Across Markets
 
 #### **Top 3 Countries (CVR > 4%)**
 
@@ -90,8 +87,6 @@ This dashboard helps stakeholders understand:
 * **Germany:** 2.31%
 
 ---
-
-## 4. File Structure
 
 ## 4. File Structure
 
